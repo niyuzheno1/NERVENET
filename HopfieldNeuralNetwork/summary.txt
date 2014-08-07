@@ -1,0 +1,4 @@
+基于HopfieldNeuralNetwork的识别算法。
+pat.txt -> 模式库
+input.txt -> 需要识别的对象
+output.txt -> 识别结果。
